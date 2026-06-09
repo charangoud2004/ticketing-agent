@@ -1,0 +1,66 @@
+[
+  {
+    "ticket_id": "TKT-001",
+    "category": "billing",
+    "urgency": "critical",
+    "handler_type": "escalation",
+    "status": "resolved",
+    "resolved_at": "2026-06-09T11:01:26.901173+00:00"
+  },
+  {
+    "ticket_id": "TKT-002",
+    "category": "billing",
+    "urgency": "low",
+    "handler_type": "billing",
+    "status": "resolved",
+    "resolved_at": "2026-06-09T11:01:27.157439+00:00"
+  },
+  {
+    "ticket_id": "TKT-003",
+    "category": "tech",
+    "urgency": "critical",
+    "handler_type": "escalation",
+    "status": "resolved",
+    "resolved_at": "2026-06-09T11:01:27.477819+00:00"
+  },
+  {
+    "ticket_id": "TKT-004",
+    "category": "tech",
+    "urgency": "low",
+    "handler_type": "tech",
+    "status": "resolved",
+    "resolved_at": "2026-06-09T11:01:27.909460+00:00"
+  },
+  {
+    "ticket_id": "TKT-005",
+    "category": "general",
+    "urgency": "low",
+    "handler_type": "general",
+    "status": "resolved",
+    "resolved_at": "2026-06-09T11:01:28.216066+00:00"
+  },
+  {
+    "ticket_id": "TKT-006",
+    "category": "tech",
+    "urgency": "critical",
+    "handler_type": "escalation",
+    "status": "resolved",
+    "resolved_at": "2026-06-09T11:01:28.554242+00:00"
+  },
+  {
+    "ticket_id": "TKT-007",
+    "category": "general",
+    "urgency": "low",
+    "handler_type": "general",
+    "status": "resolved",
+    "resolved_at": "2026-06-09T11:01:28.806468+00:00"
+  },
+  {
+    "ticket_id": "TKT-008",
+    "category": "billing",
+    "urgency": "medium",
+    "handler_type": "billing",
+    "status": "resolved",
+    "resolved_at": "2026-06-09T11:01:29.086378+00:00"
+  }
+]

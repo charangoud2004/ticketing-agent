@@ -5,7 +5,7 @@ from datetime import datetime, timezone
 
 load_dotenv()
 
-llm = ChatGroq(model="llama3-8b-8192")
+llm = ChatGroq(model="llama-3.3-70b-versatile")
 
 def classify_node(state: TicketState) -> TicketState:
     ticket = state["current_ticket"]
