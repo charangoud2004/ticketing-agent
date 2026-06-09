@@ -1,0 +1,7 @@
+# Core dependencies
+langgraph>=0.2.0
+langchain>=0.3.0
+langchain-groq>=0.2.0
+
+# Environment and utilities
+python-dotenv>=1.0.0

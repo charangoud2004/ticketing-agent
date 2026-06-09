@@ -1,0 +1,50 @@
+[
+  {
+    "id": "TKT-001",
+    "description": "Our payment processing is completely down. Customers are getting error 500 when trying to checkout. We're losing sales every minute this is down. This is affecting our entire e-commerce platform.",
+    "category": "billing",
+    "submitted_at": "2026-06-09T14:23:00Z"
+  },
+  {
+    "id": "TKT-002",
+    "description": "I need a copy of last month's invoice for my records. No rush, just need it for our accounting department by end of week.",
+    "category": "billing",
+    "submitted_at": "2026-06-09T10:15:00Z"
+  },
+  {
+    "id": "TKT-003",
+    "description": "The entire production database is down. All services are offline. Customers cannot access their accounts. This is a complete outage affecting thousands of users.",
+    "category": "tech",
+    "submitted_at": "2026-06-09T15:47:00Z"
+  },
+  {
+    "id": "TKT-004",
+    "description": "I'm having trouble changing my profile picture. It says the file is too large but I've tried different sizes. Can someone help when you get a chance?",
+    "category": "tech",
+    "submitted_at": "2026-06-09T11:30:00Z"
+  },
+  {
+    "id": "TKT-005",
+    "description": "Can you explain the difference between your Pro and Enterprise plans? I'm considering upgrading but want to understand the features first.",
+    "category": "general",
+    "submitted_at": "2026-06-09T09:45:00Z"
+  },
+  {
+    "id": "TKT-006",
+    "description": "Security breach detected! Unauthorized access to admin panel. Multiple failed login attempts from unknown IPs. Need immediate assistance to secure the system.",
+    "category": "tech",
+    "submitted_at": "2026-06-09T16:02:00Z"
+  },
+  {
+    "id": "TKT-007",
+    "description": "There's a small typo on the pricing page - it says 'montly' instead of 'monthly'. Not urgent but thought you should know.",
+    "category": "general",
+    "submitted_at": "2026-06-09T13:20:00Z"
+  },
+  {
+    "id": "TKT-008",
+    "description": "We were charged twice for the same subscription this month. Can you please review our billing and issue a refund for the duplicate charge?",
+    "category": "billing",
+    "submitted_at": "2026-06-09T12:10:00Z"
+  }
+]
